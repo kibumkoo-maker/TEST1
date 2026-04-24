@@ -1,6 +1,6 @@
 # TEST1
 ## *TEST1*
-### TEST1
+~~### TEST1
 #### TEST1
 
 GIT TEST
